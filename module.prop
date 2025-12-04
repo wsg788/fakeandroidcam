@@ -1,0 +1,7 @@
+id=fakeandroidcam
+name=Fake Android Virtual Camera
+version=1.0.0
+author=ChatGPT
+versionCode=100
+minMagisk=26000
+description=Injects fake camera/video feed via Zygisk hooks and virtual camera assets.
