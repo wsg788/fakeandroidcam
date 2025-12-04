@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fake Android Cam</string>
+    <string name="tab_media">Media</string>
+    <string name="tab_scope">Scope</string>
+    <string name="tab_status">Status</string>
+    <string name="select_media">Select media</string>
+    <string name="preview_title">Preview</string>
+    <string name="enable_virtual_cam">Enable virtual camera</string>
+    <string name="save_config">Save config</string>
+    <string name="install_module">Install module</string>
+    <string name="root_detected">Root detected</string>
+    <string name="root_not_detected">Root not detected</string>
+    <string name="magisk_detected">Magisk detected</string>
+    <string name="magisk_not_detected">Magisk not detected</string>
+</resources>
